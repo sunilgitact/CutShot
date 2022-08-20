@@ -1,0 +1,59 @@
+
+#CSubmit{
+    
+    height: 30px;
+    margin-top: 100px;
+    margin-bottom: -140px;
+    margin-left: 150px;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: rgb(97, 38, 236);
+}
+
+#smted{
+    color: aliceblue;
+    margin-left: 8px;
+    padding-top: 3px;
+}
+
+#Main-Nav{
+    text-decoration: none;
+   height: 65px;
+   align-items: center;
+   justify-content: start;
+   display: flex;
+   margin-bottom: 20px;
+   width: 100VW;
+   margin-left: 35%;
+   margin-right: 40%;
+  }
+
+  #links{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid  rgb(97, 38, 236);
+    height: 25px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 40px;
+    border-radius: 25px;
+    color: rgb(19, 18, 18);      
+  }
+
+  #hline{
+    width: 400px;
+    height: 25px;
+    background-color: blue;
+}
+
+.line{
+    background-color: black;
+    height: 200px;
+    width: 500px;
+
+}
+
+#SecoundPage{
+    margin-top: 20px;
+}

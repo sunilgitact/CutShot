@@ -1,0 +1,36 @@
+.HeadingText2{
+    padding-top: 150px;
+    text-align: center;
+    margin-bottom: 4px;
+ 
+     
+}
+
+.SecoundPage{
+    
+    width: 340px;
+    height: 400px;
+    margin: auto;
+    margin-top: -100px;
+}
+
+span{
+    color: rgb(155, 155, 155);
+    font-size: small;
+    margin-left: 5px;
+   font-weight: normal;
+}
+
+#WorkspaceName{
+    
+    margin-top: 40px;
+    font-size: small;
+    font-size: 13px;
+    margin-bottom: 3px;
+    color: rgb(77, 77, 77);
+
+}
+
+#inps{
+    margin-left: 25px;
+}

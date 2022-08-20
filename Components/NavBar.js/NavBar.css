@@ -1,0 +1,51 @@
+
+.flex-box{ 
+    display: inline;
+   
+}
+
+#Main-Nav{
+    margin-top: 45px;
+    margin-left: 40%;
+
+}
+
+#links{
+    margin-left: -5px; 
+    color: white;
+    background-color: rgb(97, 38, 236);
+   
+}
+
+#contiune1{
+    width: 40px;
+    height: 3px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: -40px;
+    margin-right: 0%;
+   
+}
+
+
+#contiune2{
+    width: 40px;
+    height: 3px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: -40px;
+    margin-right: 0%;
+   
+}
+
+
+#contiune3{
+    width: 40px;
+    height: 3px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: -40px;
+    margin-right: 0%;
+   
+}
+

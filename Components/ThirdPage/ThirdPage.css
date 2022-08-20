@@ -1,0 +1,56 @@
+#Card1{
+    margin-top: 20px;
+    width: 115px;
+    height: 100px;
+    outline-style: solid ;
+    outline-width: 1px;
+    outline-color: blueviolet;
+    border-radius: 5px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 15px;
+    padding-right: px;
+    margin-right: 5px;
+    margin-left: 25px;
+}
+
+
+#Card2{
+    margin-top: 20px;
+    width: 120px;
+    height: 100px;
+    outline-style: solid ;
+    outline-width: 1px;
+    outline-color: rgb(241, 226, 255);
+    border-radius: 5px;
+    padding-top: 18px;
+    padding-left: 15px;
+    padding-right: px;
+    margin-right: 5px;
+    padding-bottom: 18px;
+
+}
+
+#Text-inside-card1{
+    margin-top: 10px;
+    font-size: small;
+    margin-bottom: 0px;
+}
+
+#Text2-inside-card1{
+    margin-top: 5%;
+    font-size: small;
+    color: rgb(104, 104, 104);
+}
+
+#Main-Card{
+    display: flex;
+    
+}
+
+img{
+    height: 20px;
+    margin-top: 0px;
+}
+
+
